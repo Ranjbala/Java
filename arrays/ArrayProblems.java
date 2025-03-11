@@ -85,6 +85,5 @@ public class ArrayProblems {
             }
         }
         System.out.println("Diagonal sum "+sum);
-
     }
 }
